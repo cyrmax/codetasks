@@ -46,7 +46,7 @@ When making such a contribution, please keep the following in mind:
 
 If you learned something new from this repository, improved your programming skills, or just enjoyed the work, you can support the author with some coins.
 
-Here is a link to my Boosty page where you can donate or subscribe on a monthly basis.
+[Here is a link to my Boosty page](https://boosty.to/cyrmax/donate) where you can donate or subscribe on a monthly basis.
 I know the website is not the best, but I have no other way to accept donations at the moment.
 
 # Credits
